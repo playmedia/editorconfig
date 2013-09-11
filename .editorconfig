@@ -20,3 +20,11 @@ indent_size = 2
 [*.html]
 indent_style = spaces
 indent_size = 2
+
+[*.handlebars]
+indent_style = spaces
+indent_size = 2
+
+[*.scss]
+indent_style = spaces
+indent_size = 2
