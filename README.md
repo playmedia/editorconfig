@@ -9,5 +9,5 @@ $ ./install
 OR
 
 ```
-curl https://raw.github.com/playmedia/editorconfig/master/.editorconfig > ~/.editorconfig
+$ curl https://raw.github.com/playmedia/editorconfig/master/.editorconfig > ~/.editorconfig
 ```
